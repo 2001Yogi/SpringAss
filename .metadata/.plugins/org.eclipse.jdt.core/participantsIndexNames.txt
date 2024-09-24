@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\yogit\Spring Workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\696313378.index
+\SpringORM\src\main\java
+C:\Users\yogit\Spring Workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1403048804.index
+\SPRINGMVCORM\src\main\java

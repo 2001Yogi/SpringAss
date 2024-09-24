@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+		https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean class="Collection.Student" name="u1">
+		<property name="id" value="1"/>
+		<property name="fname" value="Yogita"/>
+		<property name="lname" value="Gidwani"/>
+		<property name="email">
+			<list>
+				<value>yogi@gmail.com</value>
+				<value>123@gmail,com</value>
+				<value>abc@gmail.com</value>
+			</list>
+		</property>
+		<property name="mobile">
+			<set>
+				<value>789745878</value>
+				<value>789658787</value>
+				<value>754258964</value>
+			</set>
+		</property>
+	</bean>
+
+</beans>
